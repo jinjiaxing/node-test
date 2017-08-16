@@ -1,0 +1,11 @@
+.idea
+.DS_Store
+node_modules
+.sass-cache
+dist/*
+./*/node_modules
+
+
+# Vim backup files
+*~
+
